@@ -99,4 +99,3 @@ Customer_Churn_Analysis/
    ```markdown
    [Open in Colab](https://colab.research.google.com/github/yourusername/Customer_Churn_Analysis/blob/main/notebooks/Customer_Churn_Analysis.ipynb)
    ```
-3. Keep your code clean and commented—recruiters love clarity.
